@@ -1,4 +1,4 @@
-html,body,h1,h2,h3,h4 {
+html,body {
   font-family:"Lato", sans-serif;
   background-color: #f8fbf4;
 }
@@ -9,77 +9,20 @@ html,body,h1,h2,h3,h4 {
   margin-bottom:80px;
 }
 
-.w3-tag, .fa {
-  cursor:pointer;
-}
-
-.w3-tag {
-  height:15px;
-  width:15px;
-  padding:0;
-  margin-top:6px;
-}
 
 i {
   color:#000 !important;color: #EA8A81 !important;
 }
 
-h3.mejorar {
-background-color: #b9db93;
-text-align: center;
-}
-
-h3.profesionalidad {
-  background-color: #7eb63d;
-  text-align: center;
-}
-
-h3.superacion {
-  background-color: #628e2f;
-  text-align: center;
-}
-
-h3.herramientas {
-  background-color: #466522;
-  text-align: center;
-}
 
 .w3-card {
   background-color: #FCF3F2;
 }
 
-h3.trabajo {
-  background-color: #FCF3F2;
-  text-align: center;
+
+.w3-theme-l2 {
+  color:#000 !important; 
+  background-color:#f98d85 !important;
 }
-
-.-w3-border-dark-grey {
-  color:#466522 !important; background-color:#f8fbf4 !important;
-}
-
-
-
-.w3-theme-l5 {color:#000 !important; background-color:#f8fbf4 !important}
-.w3-theme-l4 {color:#000 !important; background-color:#e8f3db !important}
-.w3-theme-l3 {color:#000 !important; background-color:#d1e7b7 !important}
-.w3-theme-l2 {color:#000 !important; background-color:#b9db93 !important}
-.w3-theme-l1 {color:#000 !important; background-color:#a2cf6f !important}
-.w3-theme-d1 {color:#fff !important; background-color:#7eb63d !important}
-.w3-theme-d2 {color:#fff !important; background-color:#70a236 !important}
-.w3-theme-d3 {color:#fff !important; background-color:#628e2f !important}
-.w3-theme-d4 {color:#fff !important; background-color:#547a29 !important}
-.w3-theme-d5 {color:#fff !important; background-color:#466522 !important}
-
-.w3-theme-light {color:#000 !important; background-color:#f8fbf4 !important}
-.w3-theme-dark {color:#fff !important; background-color:#466522 !important}
-.w3-theme-action {color:#fff !important; background-color:#466522 !important}
-
-.w3-theme {color:#fff !important; background-color:#8bc34a !important}
-.w3-text-theme {color:#8bc34a !important}
-.w3-border-theme {border-color:#8bc34a !important}
-
-.w3-hover-theme:hover {color:#fff !important; background-color:#8bc34a !important}
-.w3-hover-text-theme:hover {color:#8bc34a !important}
-.w3-hover-border-theme:hover {border-color:#8bc34a !important}
 
 
