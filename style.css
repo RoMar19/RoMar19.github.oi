@@ -3,6 +3,7 @@ html,body {
   background-color: #f8fbf4;
 }
 
+
 .w3-content {
   max-width:1100px;
   margin-top:80px;
@@ -23,6 +24,11 @@ i {
 .w3-theme-l2 {
   color:#000 !important; 
   background-color:#f98d85 !important;
+}
+
+.w3-theme-l5 {
+  color:#000 !important; 
+  background-color:#fff5f2 !important;
 }
 
 
