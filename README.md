@@ -1,8 +1,8 @@
 # Web de Almudena Martín Fdez. - Psicóloga
 
 ## Web de Consulta Psicológica
-### Home: Presentaciónn de la Psicóloga
-### Terapias: Métodos de trabajo para la consulta y especialización y datos Num. de Colegiado/a
+### Home: Presentación de la Psicóloga
+### Terapias: Métodos de trabajo para la consulta, especialización y datos Num. de Colegiada.
 ### Precios: Tarifas para consultas Presnciales, Online o para Grupos (Presencial y Online)
 ### Datos de contacto con formulario para solicitar cita por e-mail.
 
